@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gohilvi74130373" target="blank"><img src="https://img.shields.io/twitter/follow/gohilvi74130373?logo=twitter&style=for-the-badge" alt="gohilvi74130373" /></a> </p>
 
-- 🌱 I’m currently exploring **Front-end development, Data Structures and Algorithms**
+- 🌱 I am **Constantly learning and experiencing new things**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gohilvd04](https://github.com/Gohilvd04)
 
